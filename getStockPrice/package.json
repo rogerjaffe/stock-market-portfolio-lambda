@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "yahoo-finance": "^0.3.7"
-  }
+  "license": "ISC"
 }
